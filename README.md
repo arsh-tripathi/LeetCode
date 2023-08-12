@@ -2,9 +2,10 @@
 
 This is a collection of my LeetCode solutions
 
-I am proceeding by difficulty, all easy first, then all mediums, then all hard
-
 My progress:
+
+Question: 
+
 
 1. Easy:
 27 completed
