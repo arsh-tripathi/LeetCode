@@ -10,7 +10,7 @@ Sorted into three directories:
 | **Category** | **Solved** |
 | ------------ | ---------- |
 | Easy         | 1          |
-| Medium       | 0          |
+| Medium       | 1          |
 | Hard         | 0          |
 
 Last Updated:
